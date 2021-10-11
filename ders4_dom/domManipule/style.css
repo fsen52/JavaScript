@@ -1,0 +1,26 @@
+.btn {
+  width: 100px;
+  height: 40px;
+}
+.input-div {
+  margin-top: 30px;
+}
+.textbox,
+.dil {
+  width: 300px;
+  height: 40px;
+}
+
+.res1 {
+  width: 400px;
+  height: 400px;
+  border: 3px solid blue;
+}
+
+/* Bu class(h1) JS kodu icersinde olusturulmustur. */
+
+h1 {
+  margin-top: 30px;
+  color: red;
+  text-align: left;
+}
